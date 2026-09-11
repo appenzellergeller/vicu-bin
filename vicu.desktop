@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Vicu
+Comment=Task management app powered by Vikunja
+Exec=vicu %U
+Terminal=false
+Type=Application
+Icon=vicu
+StartupWMClass=Vicu
+Categories=Utility;Office;
+Keywords=task;todo;productivity;vikunja;
